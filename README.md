@@ -1,4 +1,4 @@
-<span style="color:green"># Mario's AdventureCraft ModPack
+# Mario's AdventureCraft ModPack
 ---
 These are the mods I am currently using on the **MC Forge Server.**
 This is a combination of QoL (Quality of Life) changes, dependancies, and larger scale mods that directly alter the game.
