@@ -29,4 +29,3 @@ This is a combination of QoL (Quality of Life) changes, dependancies, and larger
 - **Comforts**: Adds sleeping bags and hammocks.
 - **Goblin Trader**: Adds goblin traders. They spawn in caves rarely and sell valuable gear and loot.
 - **Mutant Beasts**: Adds mini-boss versions of common monster mobs. These have special abilities and unique loot.
-- **Champions**: Adds tougher, normal monsters.
