@@ -39,4 +39,4 @@ This is a combination of QoL (Quality of Life) changes, dependancies, and larger
 - **Valhesia Structures**: Spawns different structures in addition to vanilla.
 - **Repurposed Structures**: Spawns more vanilla structures with different variants in more biomes.
 - **Silent Gear**: Overhauls the equipment and armor systems to be upgradable/customizable.
-- **Quark**: CHanges countless small things about Minecraft while keeping Minecraft feeling like Minecraft.
+- **Quark**: Changes countless small things about Minecraft while keeping Minecraft feeling like Minecraft.
