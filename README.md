@@ -10,6 +10,7 @@ This is a combination of QoL (Quality of Life) changes, dependancies, and larger
 - **Patchouli** (Ars Nouveau)
 - **Curios** (Ars Nouveau)
 - **Citadel** (Alex's Mobs)
+- **CreativeCore** (Ambient Sounds 3)
 
 ### QoL Mods:
 - **ToroHealth**: Shows health bars of mobs that are being _directly_ looked at by the player.
@@ -19,6 +20,7 @@ This is a combination of QoL (Quality of Life) changes, dependancies, and larger
 - **Just Enough Items**: Provides a menu showing all items (modded or vanilla) and how to craft them.
 - **HWLYA**: Describes what the player is looking at (if the player is looking at a dirt block, the top of the screen says it is a dirt block).
 - **AppleSkin**: Shows how much a specific food can satiate your hunger when the mouse is hovered over it in your inventory.
+- **Ambient Sounds 3**: Adds a diverse array of nature sounds to the game, making MC more immersive.
 
 ### "Normal" Mods:
 - **Sophisticated Backpacks**: Allows players to create and use backpacks. Backpacks can be colored and upgraded.
@@ -29,3 +31,4 @@ This is a combination of QoL (Quality of Life) changes, dependancies, and larger
 - **Comforts**: Adds sleeping bags and hammocks.
 - **Goblin Trader**: Adds goblin traders. They spawn in caves rarely and sell valuable gear and loot.
 - **Mutant Beasts**: Adds mini-boss versions of common monster mobs. These have special abilities and unique loot.
+- **Ropes Mod!**: Adds craftable ropes used to scale ravines and mountains with more ease.
